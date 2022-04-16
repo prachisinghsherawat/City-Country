@@ -1,0 +1,62 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "Canada",
+      "id": 2
+    },
+    {
+      "country": "France",
+      "id": 3
+    },
+    {
+      "country": "USA",
+      "id": 4
+    },
+    {
+      "country": "Neitherland",
+      "id": 6
+    }
+  ],
+  "cities": [
+    {
+      "city": "Ghaziabad",
+      "population": "87000",
+      "country": "India",
+      "id": 1
+    },
+    {
+      "city": "Amsterdam",
+      "population": "28000",
+      "country": "Neitherland",
+      "id": 2
+    },
+    {
+      "city": "Toronto",
+      "population": "41000",
+      "country": "Canada",
+      "id": 3
+    },
+    {
+      "city": "Paris",
+      "population": "11000",
+      "country": "France",
+      "id": 4
+    },
+    {
+      "city": "New York",
+      "population": "90000",
+      "country": "USA",
+      "id": 5
+    },
+    {
+      "city": "New Delhi ",
+      "population": "99000",
+      "country": "India",
+      "id": 6
+    }
+  ]
+}
